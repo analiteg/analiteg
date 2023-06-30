@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kiryl Rudovich @analiteg.
-- 👀 I’m interested in ABAP programming and SAP S4/HANA development.
-- 🌱 I’m currently learning ABAP.
-- 💞️ I’m looking to collaborate on ABAP programming and SAP applications development.
+- 👀 I’m ABAP developer.
 - 📫 You can find me here https://www.linkedin.com/in/kirillrudovich/
 
 <!---
